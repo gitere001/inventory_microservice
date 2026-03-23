@@ -1,0 +1,1 @@
+from app.models.Product import Product  # noqa
